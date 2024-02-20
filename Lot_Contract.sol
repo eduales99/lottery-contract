@@ -1,5 +1,6 @@
 //SPDX-License-Identifier: MIT 
 
+// App start
 pragma solidity ^0.8.0;
 
 contract Lottery{
